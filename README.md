@@ -1,2 +1,2 @@
 # Data-structure
-Basics of Data Structures in Programming.
+FUll course of basics Data Structures in Programming.
